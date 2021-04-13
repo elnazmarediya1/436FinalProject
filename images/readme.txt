@@ -1,0 +1,1 @@
+This file just exists to make sure the images folder is pushed to git.
